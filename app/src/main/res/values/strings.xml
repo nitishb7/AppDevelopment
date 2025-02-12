@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClassApp</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="picture_of_ironamn">Picture of Ironamn</string>
+    <string name="name"> Name: %s</string>
+    <string name="age"> Age: %d</string>
+    <string name="location"> Location: %s</string>
+    <string name="role"> Role: %s</string>
+</resources>
