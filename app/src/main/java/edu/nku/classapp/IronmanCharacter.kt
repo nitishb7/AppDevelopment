@@ -7,5 +7,5 @@ class IronmanCharacter(
     val name: String,
     val place: String,
     val position: String,
-    val picture: Int
+    val picture: String,
 )
